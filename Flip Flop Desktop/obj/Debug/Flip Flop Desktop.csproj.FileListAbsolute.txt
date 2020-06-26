@@ -1,0 +1,12 @@
+D:\Programming\C#\Flip-Flop Desktop\Flip Flop Desktop\Flip Flop Desktop\bin\Debug\Flip Flop Desktop.exe.config
+D:\Programming\C#\Flip-Flop Desktop\Flip Flop Desktop\Flip Flop Desktop\bin\Debug\Flip Flop Desktop.exe
+D:\Programming\C#\Flip-Flop Desktop\Flip Flop Desktop\Flip Flop Desktop\bin\Debug\Flip Flop Desktop.pdb
+D:\Programming\C#\Flip-Flop Desktop\Flip Flop Desktop\Flip Flop Desktop\obj\Debug\Flip Flop Desktop.csprojAssemblyReference.cache
+D:\Programming\C#\Flip-Flop Desktop\Flip Flop Desktop\Flip Flop Desktop\obj\Debug\Flip_Flop_Desktop.Form1.resources
+D:\Programming\C#\Flip-Flop Desktop\Flip Flop Desktop\Flip Flop Desktop\obj\Debug\Flip_Flop_Desktop.Properties.Resources.resources
+D:\Programming\C#\Flip-Flop Desktop\Flip Flop Desktop\Flip Flop Desktop\obj\Debug\Flip Flop Desktop.csproj.GenerateResource.cache
+D:\Programming\C#\Flip-Flop Desktop\Flip Flop Desktop\Flip Flop Desktop\obj\Debug\Flip Flop Desktop.csproj.CoreCompileInputs.cache
+D:\Programming\C#\Flip-Flop Desktop\Flip Flop Desktop\Flip Flop Desktop\obj\Debug\Flip Flop Desktop.exe
+D:\Programming\C#\Flip-Flop Desktop\Flip Flop Desktop\Flip Flop Desktop\obj\Debug\Flip Flop Desktop.pdb
+D:\Programming\C#\Flip-Flop Desktop\Flip Flop Desktop\Flip Flop Desktop\obj\Debug\Flip_Flop_Desktop.FlipFlopForms1.resources
+D:\Programming\C#\Flip-Flop Desktop\Flip Flop Desktop\Flip Flop Desktop\obj\Debug\Flip_Flop_Desktop.FlipFlopForm2.resources
